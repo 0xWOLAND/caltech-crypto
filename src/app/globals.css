@@ -27,7 +27,7 @@ body {
   color: white;
 
   font: 1.3rem Inconsolata, monospace;
-  text-shadow: 0 0 5px #c8c8c8;
+  text-shadow: 0 0 5px #ffffff;
 }
 body::after {
   content: "";
@@ -78,6 +78,7 @@ body::after {
   font-weight: bold;
   text-transform: uppercase;
   /* position: relative; */
+  color: black;
   text-shadow: 0.05em 0 0 #0e6b0e, -0.03em -0.04em 0 #9ccc9c,
     0.025em 0.04em 0 #149414;
   animation: glitch 725ms infinite;

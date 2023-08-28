@@ -4,27 +4,26 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24 tv-static bg-white crt">
       <div className="bg-opacity-100 z-10">
-        <div className="w-full">
-          <p className="px-32 text-center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis
-            accusantium minus, quia vel mollitia ab officia animi voluptatem
-            culpa? Assumenda blanditiis ex doloremque incidunt labore aliquam
-            accusantium, ut necessitatibus magni!
+        <div className="w-full text-center">
+          <h1 className="glitch py-4">Caltech Crypto</h1>
+          <p className="px-64 text-sm">
+            &lt;p&gt; caltech crypto's home on the internet. leading the
+            post-classical cryptographic movement. &lt;/p&gt;
           </p>
         </div>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
-        <span className="scanline"></span>
       </div>
-      <div className="absolute inset-0 w-full h-full bg-black bg-opacity-90 z-0"></div>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <span className="scanline"></span>
+      <div className="absolute inset-0 w-full h-full bg-black bg-opacity-70 z-0"></div>
     </main>
   );
 }
