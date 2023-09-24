@@ -30,6 +30,7 @@ const siteMetadata = {
 
 module.exports = {
   siteMetadata,
+  pathPrefix: "/caltech-crypto",
   plugins: [
     "gatsby-plugin-react-helmet",
     {

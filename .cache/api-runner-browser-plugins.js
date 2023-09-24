@@ -1,6 +1,6 @@
 module.exports = [{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Caltech Blockchain","short_name":"Caltech Blockchain","start_url":"/","background_color":"#222222","theme_color":"#222222","display":"standalone","icon":"src/images/icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"78979e6529f234bf27d62f159a40aed1"},
+      options: {"plugins":[],"name":"Caltech Blockchain","short_name":"Caltech Blockchain","start_url":"/","background_color":"#222222","theme_color":"#222222","display":"standalone","icon":"src/images/icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"a2ebca74dd2d6eee3cbd1a850a8f5dea"},
     },{
       plugin: require('../node_modules/gatsby-plugin-gtag/gatsby-browser.js'),
       options: {"plugins":[],"trackingId":"UA-48045203-1"},
