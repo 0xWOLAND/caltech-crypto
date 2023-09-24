@@ -1,0 +1,14 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "author": { "email": "mailto:hello@gabrielgiordano.com" },
+        "authorSocial": {
+          "github": "https://github.com/0xWOLAND",
+          "linkedin": "https://www.linkedin.com/in/anish-goel-caltech/",
+          "medium": "https://medium.com/@gabrielgiordano"
+        }
+      }
+    }
+  }
+}
